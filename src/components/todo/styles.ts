@@ -54,7 +54,7 @@ export const Container = styled.div<IContainerProps>`
 
       line-height: 140%;
 
-      transition: color 0.2s;
+      transition: color 0.2s, text-decoration 0.2s;
 
       ${({ isCompleted }) => {
         if (isCompleted) {
