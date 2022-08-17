@@ -1,5 +1,6 @@
 import 'styled-components';
-import { dark } from './styles/themes/dark';
+
+import { dark } from '../styles/themes/dark';
 
 export type ThemeInterface = typeof dark;
 

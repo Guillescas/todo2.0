@@ -6,7 +6,7 @@ export const dark = {
     blue: '#4EA8DE',
     blueDark: '#1E6F9F',
 
-    danger: 'E25858',
+    danger: '#E25858',
 
     gray: {
       700: '#0D0D0D',
